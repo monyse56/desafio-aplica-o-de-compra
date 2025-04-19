@@ -18,7 +18,7 @@ Praticar os seguintes conceitos da linguagem Java:
 ## 💻 Tecnologias Utilizadas
 
 - Java 17+
-- IntelliJ IDEA ou qualquer outra IDE Java
+- IntelliJ IDEA 
 - Terminal/Console
 
 ## 🚀 Como Executar
